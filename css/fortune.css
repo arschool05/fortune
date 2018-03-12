@@ -147,6 +147,11 @@
   max-height: 300px;
 }
 
+
+.kekka-image{
+  max-height: 150px;
+}
+
 /* 結果のパネルを配置 */
 .kekka-panel {
   grid-row: 3 / 6;
